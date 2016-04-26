@@ -1,0 +1,2 @@
+# ProductGrader
+Simple constructor
